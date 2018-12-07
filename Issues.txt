@@ -1,0 +1,98 @@
+1.Add excel to project
+rename excel:715 error ocurs
+             8.1 no response 
+2.Add program to project
+rename program:7.15 create a new empty program
+               8.1  create a new empty program
+
+3.Add txt to project
+  open an empty file
+4.Add data to project
+  error happens
+
+
+export 数据表到dbf格式，再导入，' 等特殊符号显示为_
+
+
+http://sww.sas.com/cgi-bin/quick_browse?defectid=S1456147
+
+如果表名含中文，加扩展特性时会报unknow error
+
+
+New task
+
+3.8 如果name中加入& 会报错 synax error 没有翻译
+5.2 如果name中加入& 不会报错，但是无法正确显示任务
+
+
+
+3.8中
+Copy一个table生成副本
+提示名字太长超过32个字符的时候，重复提示两遍 
+
+
+Finished story:
+
+https://rndjira.sas.com/browse/EG-1261
+https://rndjira.sas.com/browse/EG-1363
+EG-923 Show basic note view toolbar
+
+https://rndjira.sas.com/browse/EG-1454
+EG-1075 Document Header Shortcut Overlay
+https://rndjira.sas.com/browse/EG-1462
+I18N: EG-1089 Fix some issues with the Project Log Summary View
+
+https://rndjira.sas.com/browse/EG-1665
+I18N: EG-1600 Add “Filter” text next to combo box and other minor changes
+
+https://rndjira.sas.com/browse/EG-1653
+I18N: EG-1585 Change task browser to double click to open
+
+https://rndjira.sas.com/browse/EG-1488
+I18N: EG-1129 Updates to Task Browser for EG
+
+https://rndjira.sas.com/browse/EG-1635
+I18N: EG-1556 Don't display the "Input Data" after running a task
+
+
+Verified S1448653 S1452082 S1452855 
+
+https://rndjira.sas.com/browse/EG-1634
+I18N: EG-1554 Show recents file save dialog when Save As a project
+https://rndjira.sas.com/browse/EG-1749
+I18N: EG-1714 Task Browser Search/Filter Updates
+
+
+=======================================================
+https://rndjira.sas.com/browse/EG-1790
+EG-1760 Project pane toolbar improvements
+https://rndjira.sas.com/browse/EG-1737
+EG-1694 Add support for Share - Export on the Process Flow toolbar
+https://rndjira.sas.com/browse/EG-1754
+I18N: EG-1727 Handle opening of Recent/Favorite Tasks in the overflow menu
+
+https://rndjira.sas.com/browse/EG-1750
+I18N: EG-1715 Implement Results View Close
+
+
+===================================================================
+EG-1056 Support opening files from local, metadata, and server
+
+Open CSV file then change server, it shows unable to save...
+
+https://rndjira.sas.com/browse/EG-1666
+I18N: EG-1601 Project log needs an enabled, but empty zero state (with buttons disabled)
+
+I18N: EG-1235 Add zero state for data, results, and prompts
+
+https://rndjira.sas.com/browse/EG-1668
+I18N: EG-1603 Honor "Show line numbers" option in project log
+=========================================================================
+https://rndjira.sas.com/browse/EG-1652
+I18N: EG-1584 Update overlay icons to indicate which items are embedded, standalone, referenced or new
+
+https://rndjira.sas.com/browse/EG-1346
+I18N: EG-891 Parameter Prompting
+
+https://rndjira.sas.com/browse/EG-1285
+I18N: EG-732 Implement scheduling of project and process flows
